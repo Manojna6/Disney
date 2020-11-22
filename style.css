@@ -1,10 +1,22 @@
-img{
+.grid {
+    width: 450px;
     height: 700px;
 }
-body{
+
+body {
     text-align: center;
     background-color: cornflowerblue;
 }
-h1{
+
+h1 {
     font-family: fantasy;
+}
+
+hr {
+    color: white;
+}
+
+.y {
+    width: 540px;
+    height: 810;
 }
